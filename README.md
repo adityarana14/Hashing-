@@ -13,3 +13,5 @@ Q4)  Given an array of integers and a number k, write a function that returns tr
  
  Q6) Given an array containing N integers and a positive integer K, find the length of the longest sub array with sum of the elements divisible by the given value        K.
 
+Q7)  Given an incomplete Sudoku configuration in terms of a 9x9  2-D square matrix(mat[][]) the task to check if the current configuration is valid or not where a 0 represents an empty block.
+Note: Current valid configuration does not ensure validity of the final solved sudoku. 
